@@ -1,4 +1,4 @@
-@Library('robot-shared-library') _
+@Library('roboshop-shared-library') _
 
 env.COMPONENT="user"
 env.APP="nodejs"

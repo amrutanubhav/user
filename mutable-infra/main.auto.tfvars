@@ -1,0 +1,3 @@
+COMPONENT = "user"
+PORT = 8080
+

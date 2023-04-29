@@ -1,3 +1,3 @@
 COMPONENT = "user"
-PORT = 80
+PORT = 8080
 
